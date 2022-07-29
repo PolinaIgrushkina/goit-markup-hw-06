@@ -504,6 +504,7 @@ a.contacts.footer:focus {
     
     color: var(--primary-text-color);
 
+    display: block;
     margin-bottom: 4px;
 }
 
